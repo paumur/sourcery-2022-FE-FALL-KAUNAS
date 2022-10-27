@@ -7,7 +7,7 @@
   <li>Go into that directory. In git bash/terminal you should see the name of the folder and the branch name (main)</li>
   <li>Create your branch. Name it like ‘feature/name-surname’</li>
   <li>Switch to that branch.</li>
-  <li>Create a folder with your name like name-surname.</li>
+  <li>Create a folder with your name like name-surname. ( You can use unix commands or use file explorer to create folders and files ).</li>
   <li>Go to that folder. All changes you make will be inside this folder.</li>
   <li>Create a helloWorld.txt file with the text ‘Hello World!’</li>
   <li>Commit that file with message ‘My first commit’</li>
